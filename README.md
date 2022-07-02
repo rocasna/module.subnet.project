@@ -1,2 +1,2 @@
-# module.subnet.project
-Modulo para crear subnet en GCP con Terraform
+# module.subnet.terraform
+Modulo para crear subred en GCP con Terraform
